@@ -1,0 +1,18 @@
+.tom-element {
+    background-color: #ebebeb;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #333;
+    box-shadow: 5px 10px #666;
+    color: #333;
+    font-family: sans-serif;
+}
+
+.tom-element p {
+    font-size: 2rem;
+}
+
+.tom-element span {
+    font-weight: 700;
+    color: red;
+}

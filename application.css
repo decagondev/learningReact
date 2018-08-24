@@ -1,0 +1,18 @@
+.heading {
+    background-color: #ebebeb;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #333;
+    box-shadow: 5px 10px #666;
+    color: #333;
+    font-family: sans-serif;
+}
+
+.heading p {
+    font-size: 2rem;
+}
+
+.heading span {
+    font-weight: 700;
+    color: red;
+}
