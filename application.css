@@ -14,5 +14,24 @@
 
 .heading span {
     font-weight: 700;
-    color: red;
+    color: rgb(84, 138, 209);
+}
+
+.heading ul {
+    list-style-type: none;
+}
+
+.heading li {
+    display: inline-block;
+    width: 25%;
+}
+
+.heading li a {
+    color: #333;
+    text-decoration: none;
+}
+
+.heading li a:hover {
+    text-decoration: underline;
+    color: rgb(84, 138, 209);
 }
